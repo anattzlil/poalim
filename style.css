@@ -6,7 +6,7 @@
 
 .container {
     width: 400px;
-    height: 580px;
+    height: 570px;
     background-color: #c5051a;
     margin:auto;
     text-align: center;
@@ -26,14 +26,13 @@ h1 {
 
 form {
     margin: auto;
-    padding-top: 5px;
     padding-bottom: 5px;
 }
 
 .input {
-    width: 320px;
+    width: 350px;
     height: 45px;
-    margin-top: 20px;
+    margin-top: 10px;
     /* margin-right: 20px;
     margin-left: 20px; */
     /* margin-bottom: 10px; */
@@ -84,9 +83,9 @@ form {
 }
 
 .join-btn {
-    margin-top: 35px;
+    margin-top: 50px;
     margin-bottom: 35px;
-    width: 320px;
+    width: 350px;
     height: 70px;
     border-radius: 5px;
     font-size: 18px;
